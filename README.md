@@ -1,10 +1,10 @@
-# ButterKnifeZelezny
+# Afinal-view-helper
 
-Simple plug-in for Android Studio/IDEA that allows one-click creation of [Butterknife](https://github.com/JakeWharton/butterknife) view injections.
+Simple plug-in for Android Studio/IDEA that allows one-click creation of [Afinal view injection](https://github.com/yangfuhai/afinal) view injections.
 
 ## How to install
 
-- in Android Studio: go to `Preferences → Plugins → Browse repositories` and search for `ButterKnife Zelezny`
+- in Android Studio: go to `Preferences → Plugins → Browse repositories` and search for `afinal`  [waiting]
 
 _or_
 
@@ -15,7 +15,7 @@ _or_
 
  ![](img/zelezny_animated.gif)
 
- 1. Right click on usage of desired layout reference (e.g. R.layout.main in your Activity or Fragment), then `Generate` and `Generate ButterKnife Injections`
+ 1. Right click on usage of desired layout reference (e.g. R.layout.main in your Activity or Fragment), then `Generate` and `Generate Afinal Injections`
  2. Pick injections you want, you also have an option to create ViewHolder for adapters.
  3. Click `Confirm` and enjoy injections in your code with no work!
 
@@ -27,10 +27,5 @@ _or_
 
 ## Other's work
 
-- [IDEA code generator](https://github.com/kurganec/intellij-android-codegenerator/) by Anatoly Korniltsev 
-
-## Why 'Zelezny'?
-
-<img src="http://assets.espn.go.com/i/oly/summer08/afp/xml/en/biop/images/bio/15525.jpg" width="60"  align="right"/>
-
-[Jan Železný](http://en.wikipedia.org/wiki/Jan_%C5%BDelezn%C3%BD) is a famous Czech javelin thrower, Olympic champion and world record holder. With Zelezny's javelin, your butter knife will be much sharper!
+- [IDEA code generator](https://github.com/kurganec/intellij-android-codegenerator/) by Anatoly Korniltsev
+- [butter knife generator](https://github.com/inmite/android-butterknife-zelezny) by inmite
