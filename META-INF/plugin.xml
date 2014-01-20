@@ -33,9 +33,9 @@
 	<actions>
 		<action id="AddInjectionsAction"
 			class="eu.inmite.android.plugin.afinalviewhelper.InjectAction"
-			text="Generate _Butterknife Injections"
-			icon="/eu/inmite/android/plugin/butterknifezelezny/icons/butterknife-zelezny.png"
-			description="Inserts Butterknife injections into currently opened source">
+			text="Generate afinal Injections"
+			icon="/eu/inmite/android/plugin/afinal-view-helper/icons/butterknife-zelezny.png"
+			description="Inserts afinal injections into currently opened source">
 
 			<keyboard-shortcut
 				keymap="$default"
